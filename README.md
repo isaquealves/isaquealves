@@ -1,16 +1,35 @@
-### Hi there 👋
+### Hello World! 👋
 
-<!--
-**isaquealves/isaquealves** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You're Welcome!
 
-Here are some ideas to get you started:
+### whoami
+My name is Isaque Alves and I'm a software developer looking to share knowledge and build awesome things. 
+Currently I'm working on <a href="https://www.avenuecode.com/careers/open-positions">Avenue Code</a>.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Stacks
+
+Current 
+ - Python / Flask / orator orm
+ - Python / Fastapi / Tortoise orm
+ - Python / Fastapi / async sqlalchemy/databases
+
+Studying
+ - Elixir
+ - Haskell
+
+
+### More
+
+- 💬 We also can talk about `philosophy`, `music`, `religion` and `politics`. I'm not just a tech guy.
+- 📫 Reach me though : 
+    <a href="https://www.linkedin.com/in/isaquealves/" target="_blank">
+        <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white&color=071A2C" alt="LinkedIn">
+    </a>
+    <a href="https://twitter.com/isaqueaves/" target="_blank">
+      <img src="https://img.shields.io/badge/Twitter-%231877F2.svg?&style=flat-square&logo=twitter&logoColor=white&color=071A2C" alt="Twitter">
+    </a>
+     <a href="mailto:isaque.alves@gmail.com" mailto="isaque.alves@gmail.com" target="_blank">
+      <img src="https://img.shields.io/badge/Gmail-%231877F2.svg?&style=flat-square&logo=gmail&logoColor=white&color=071A2C" alt="Gmail">
+    </a>
+
+There is more coming soon (maybe)
