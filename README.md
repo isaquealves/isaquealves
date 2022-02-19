@@ -4,17 +4,9 @@ You're Welcome!
 
 ### whoami
 My name is Isaque Alves and I'm a software developer looking to share knowledge and build awesome things. 
-Currently I'm working on <a href="https://www.avenuecode.com/careers/open-positions" title="Come on! Click and see some open positions" target="_blank">Avenue Code</a>.
+Currently I'm working at <a href="https://www.linkedin.com/company/juntos-somos-mais/mycompany/" target="_blank">Juntos Somos Mais</a>.
 
-#### Stacks
-
-Current 
- - Python / Flask / orator orm
- - Python / Fastapi / Tortoise orm
- - Python / Fastapi / async sqlalchemy/databases
-
-
-### More
+### More information?
 
 - 📫 Reach me though : 
     <a href="https://www.linkedin.com/in/isaquealves/" target="_blank">
