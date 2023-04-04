@@ -4,7 +4,7 @@ You're Welcome!
 
 ### whoami
 My name is Isaque Alves and I'm a software developer looking to share knowledge and build awesome things. 
-Currently I'm working at <a href="https://www.linkedin.com/company/juntos-somos-mais/mycompany/" target="_blank">Juntos Somos Mais</a>.
+Currently I'm working at <a href="https://www.linkedin.com/company/provafaci/mycompany/" target="_blank">Prova Fácil</a>.
 
 ### More information?
 
