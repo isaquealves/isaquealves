@@ -8,7 +8,7 @@ Currently I'm working at <a href="https://www.linkedin.com/company/provafaci/myc
 
 ### More information?
 
-- 📫 Reach me though : 
+- 📫 Contact : 
     <a href="https://www.linkedin.com/in/isaquealves/" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white&color=071A2C" alt="LinkedIn">
     </a>
