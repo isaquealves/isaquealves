@@ -4,7 +4,7 @@ It's great to see you around here!
 
 ### whoami
 My name is Isaque Alves and I'm just a software engineer looking to share knowledge and build incredible things. 
-I've worked for [Avenue Code](https://www.linkedin.com/company/avenuecode/) , [Juntos Somos +](https://www.linkedin.com/company/juntos-somos-mais/) and lately i was with <a href="https://www.linkedin.com/company/provafaci/mycompany/" target="_blank">Prova Fácil</a>;
+I've worked for [Avenue Code](https://www.linkedin.com/company/avenuecode/), [Juntos Somos +](https://www.linkedin.com/company/juntos-somos-mais/) and lately i was with <a href="https://www.linkedin.com/company/provafaci/mycompany/" target="_blank">Prova Fácil</a>;
 
 Now, I'm open to work 😉.
 
