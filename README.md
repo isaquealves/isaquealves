@@ -42,30 +42,56 @@ Feel free to contact me. You'll be welcome.
 ### Skills?
 
 #### Hard Skills
-- Docker +4
-- Kubernetes +2
-- RabbitMQ +3y
-- Object Oriented Programming 
-    - Python +4y
-    - FastAPI +2y
-    - SQLAlchemy +2y
-    - Django +4y
-    - DjangoRestFramework +4y
-    - Javascript
-- Functional Programming
-    - Elixir lang 1y
-- Databases
-    - PostgreSQL +4y
-    - ArangoDB +2y
-    - DynamoDB +1y
-    - Cassandra +1y
-- Domain-Driven Design (*Let's discuss it*)
-- Software Architecture 
-- Event-Driven Architecture (*Remember Neo said 'I know kung-fu'... You are Morpheus here*)
-- Microservices Architecture 
-- Monolithic Architecture
+|Resources & Cloud | XP in years|
+|---- | -------------------|
+|Docker |  +4y|
+|Kubernetes | +2y|
+|AWS | +2y|
+| GCP | <1y|
+| Huawei Cloud | < 1y |
+| Azure Cloud | < 1y |
 
-#### Soft Skills
+|Programming Paradigm | XP in years |
+|---------------------| -- |
+| Object Oriented     | +10y|
+| Functional Programming| +1y|
+|---------| ------|
+
+| Language | XP in years |
+|----------| ------------|
+|Python | +5y|
+|Javascript | +4y
+| Elixir lang | +1y |
+|PHP
+
+|Framework | Language | XP in Years|
+| --- | ---| --- |
+|FastAPI | Python |+2y|
+|SQLAlchemy | Python  | +2y |
+|Django | Python |+4y |
+|DjangoRestFramework | Python | +4y |
+|Pyramid | Python | +2|
+|Symfony | PHP | +5|
+| Laravel | PHP | +2|
+| Ruby on Rails | Ruby | +2|
+
+| Databases | XP |
+|--|--|
+| Mysql | +10y|
+|PostgreSQL | +4y |
+|ArangoDB | +2y |
+|DynamoDB | +1y |
+|Cassandra | +1y |
+
+| Concepts and Development Strategies|
+|--|
+| Domain-Driven Design (*Let's discuss it*)|
+| Event-Driven Architecture (*Remember Neo said 'I know kung-fu'... You are Morpheus here*)|
+| Microservices Architecture|
+| Monolithic Architecture|
+| Refactoring & Improving Legacy Code|
+
+#### Highlighted Soft Skills
 - Collaboration (*I need to feel the synergy flowing... collaborate is not just a simple word, right?*)
 - Conflict Resolution (*I'm always looking for a safe ground*)
 - Mentorship (*I like to think that I'm responsible for discovering gems*)
@@ -76,6 +102,10 @@ Feel free to contact me. You'll be welcome.
 - Problem-solving (*There is always at least one way to get this done... let's try the other?*)
 - Integrity (*I'm entirely honest when I see I'm not being able to answer a request*)
 - Self-motivation (*My mission is to do the best whenever I get requested*)
+
+#### Improving Soft Skills
+ - Proactivity when production breaks
+ - Assertivity when solving mere bugs
 
 ### Languages?
 I'm a Portuguese speaker and an advanced English speaker;
