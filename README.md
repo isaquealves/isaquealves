@@ -24,7 +24,8 @@ I dislike:
  - code smells
  - to not participate in discussions of solutions I will be responsible for, somehow, implement.
 
-And I love telling stories to my daughters and not the same stories that everyone tells: each story is filled with their daily experiences, their fears and their dreams.
+In my spare time, I love telling stories to my daughters and not the same stories that everyone tells: each story is filled with their daily experiences, their fears and their dreams. Some stories may
+give them little shivers but always finish with a fatherly hug and some conclusions and conversations about what was done wrong that lead to that bad ending.
 
 
 Need to mention that I have a blog that I use to share some ideas, discoveries and tips. It is written in brazilian portuguese but I plan to start reediting some of the texts to be available in english too.
