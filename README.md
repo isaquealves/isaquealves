@@ -41,7 +41,6 @@ Feel free to contact me. You'll be welcome.
 
 ### Skills?
 
-#### Hard Skills
 |Resources & Cloud | XP in years|
 |---- | -------------------|
 |Docker |  +4y|
@@ -82,14 +81,6 @@ Feel free to contact me. You'll be welcome.
 |ArangoDB | +2y |
 |DynamoDB | +1y |
 |Cassandra | +1y |
-
-| Concepts and Development Strategies|
-|--|
-| Domain-Driven Design (*Let's discuss it*)|
-| Event-Driven Architecture (*Remember Neo said 'I know kung-fu'... You are Morpheus here*)|
-| Microservices Architecture|
-| Monolithic Architecture|
-| Refactoring & Improving Legacy Code|
 
 #### Highlighted Soft Skills
 - Collaboration (*I need to feel the synergy flowing... collaborate is not just a simple word, right?*)
