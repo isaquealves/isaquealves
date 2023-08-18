@@ -35,7 +35,7 @@ I'm trying so hard to overcome my shyness and run a successful YT channel but ev
 
 So this is me... 
 
-What about you? Can we have a talk? Can you call me? Can I call you? 
+What about you? Can we have a talk? Would you like to invite me to talk? Can I call you? 
 
 Feel free to contact me. You'll be welcome.
 
