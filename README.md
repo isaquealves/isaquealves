@@ -8,6 +8,24 @@ I've worked for [Avenue Code](https://www.linkedin.com/company/avenuecode/), [Ju
 
 Now, I'm open to work 😉.
 
+I have been responsible for modeling and architect some awesome piece of software side by side with fantastic people and this made me a little more confident to list you some
+of my abilities/skills. As a developer, I make use of Docker on a daily basis to ease my development processes. I have plenty knowledge and experience with object oriented programming 
+and its principles and good practices. This affects how I use Python to make poetry while coding. Also, I'm an enthusiastic of funcional programming having started learning basics of this 
+fantastic programming paradigm using Elixir lang. I also know how to do things with JavaScript and Typescript  (even I prefer the former) and I know the fundamentals of Java and its ecosystem.
+As Backend Developer I worked with PHP using Symfony Framework to create consistent business applications. With Python I've already used some frameworks like Pyramid, Flask, Django (and Django Rest Framework), FastAPI with Pydantic and SQLAlchemy. 
+I like:
+ - Eletronics
+ - Writing
+ - to freely use my intuition and imagination
+I dislike:
+ - micromanagement
+ - code smells
+ - to not participate in discussions of solutions I will be responsible for, somehow, implement.
+And I love telling stories to my daughters and not the same stories that everyone tells: each story is filled with their daily experiences, their fears and their dreams.
+I have a blog that I use to share some ideas, discoveries and tips. It is written in brazilian portuguese but I plan to start reediting some of the texts to be available in english too.
+I'm trying so hard to overcome my shyness and run a successful YT channel but everytime I finish a video, I see something wrong like last two times I forgot to activate the microphone...
+So this is me... What about you? Can we have a talk? Can you call me? Can I call you? Feel free to contact me. You'll be welcome.
+
 ### Skills?
 
 #### Hard Skills
