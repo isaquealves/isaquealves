@@ -13,10 +13,12 @@ of my abilities/skills. As a developer, I make use of Docker on a daily basis to
 and its principles and good practices. This affects how I use Python to make poetry while coding. Also, I'm an enthusiastic of funcional programming having started learning basics of this 
 fantastic programming paradigm using Elixir lang. I also know how to do things with JavaScript and Typescript  (even I prefer the former) and I know the fundamentals of Java and its ecosystem.
 As Backend Developer I worked with PHP using Symfony Framework to create consistent business applications. With Python I've already used some frameworks like Pyramid, Flask, Django (and Django Rest Framework), FastAPI with Pydantic and SQLAlchemy. 
+
 I like:
  - Eletronics
  - Writing
  - to freely use my intuition and imagination
+
 I dislike:
  - micromanagement
  - code smells
