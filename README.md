@@ -30,7 +30,13 @@ And I love telling stories to my daughters and not the same stories that everyon
 Need to mention that I have a blog that I use to share some ideas, discoveries and tips. It is written in brazilian portuguese but I plan to start reediting some of the texts to be available in english too.
 
 I'm trying so hard to overcome my shyness and run a successful YT channel but everytime I finish a video, I see something wrong like last two times I forgot to activate the microphone...
-So this is me... What about you? Can we have a talk? Can you call me? Can I call you? Feel free to contact me. You'll be welcome.
+
+
+So this is me... 
+
+What about you? Can we have a talk? Can you call me? Can I call you? 
+
+Feel free to contact me. You'll be welcome.
 
 ### Skills?
 
