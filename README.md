@@ -4,7 +4,7 @@ It's great to see you around here!
 
 ### whoami
 My name is Isaque Alves and I'm just a software engineer looking to share knowledge and build incredible things. 
-I've worked for [Avenue Code](https://www.linkedin.com/company/avenuecode/), [Juntos Somos +](https://www.linkedin.com/company/juntos-somos-mais/), [Prova Fácil]("https://www.linkedin.com/company/provafaci/mycompany/"), [Cloudmatize]("https://cloudmatize.com") and a while I keep working as freelancer doing some awesome projects.
+I've worked for [Avenue Code](https://www.linkedin.com/company/avenuecode/), [Juntos Somos +](https://www.linkedin.com/company/juntos-somos-mais/), [Prova Fácil](https://www.linkedin.com/company/provafaci/mycompany/), [Cloudmatize](https://cloudmatize.com) and a while I keep working as freelancer doing some awesome projects.
 
 I'm open to work 😉.
 
