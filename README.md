@@ -4,9 +4,9 @@ It's great to see you around here!
 
 ### whoami
 My name is Isaque Alves and I'm just a software engineer looking to share knowledge and build incredible things. 
-I've worked for [Avenue Code](https://www.linkedin.com/company/avenuecode/), [Juntos Somos +](https://www.linkedin.com/company/juntos-somos-mais/) and lately i was with <a href="https://www.linkedin.com/company/provafaci/mycompany/" target="_blank">Prova Fácil</a>;
+I've worked for [Avenue Code](https://www.linkedin.com/company/avenuecode/), [Juntos Somos +](https://www.linkedin.com/company/juntos-somos-mais/), [Prova Fácil]("https://www.linkedin.com/company/provafaci/mycompany/"), [Cloudmatize]("https://cloudmatize.com") and a while I keep working as freelancer doing some awesome projects.
 
-Now, I'm open to work 😉.
+I'm open to work 😉.
 
 I have been responsible for modeling and architect some awesome piece of software side by side with fantastic people and this made me a little more confident to list you some
 of my abilities/skills. As a developer, I make use of Docker on a daily basis to ease my development processes. I have plenty knowledge and experience with object oriented programming 
@@ -83,23 +83,21 @@ Feel free to contact me. You'll be welcome.
 |Cassandra | +1y |
 
 #### Highlighted Soft Skills
-- Collaboration (*I need to feel the synergy flowing... collaborate is not just a simple word, right?*)
-- Conflict Resolution (*I'm always looking for a safe ground*)
-- Mentorship (*I like to think that I'm responsible for discovering gems*)
-- Public Speaking (*I like to present things, to show and capture the audience's attention regarding details often not seen*)
-- Adaptability (*You know the word: evolution. The law of nature, only the most adapted (and generalists) survive*)
-- Resourcefulness (*I'm pretty sure I already used something that can help solve our problems, you know?!*)
-- Curiosity (*Man, look at what is being done by that guy! Let's take a peak?*)
-- Problem-solving (*There is always at least one way to get this done... let's try the other?*)
-- Integrity (*I'm entirely honest when I see I'm not being able to answer a request*)
-- Self-motivation (*My mission is to do the best whenever I get requested*)
+- Collaboration
+- Conflict Resolution
+- Mentorship
+- Public Speaking
+- Adaptability
+- Resourcefulness
+- Curiosity
+- Problem-solving
+- Integrity
+- Self-motivation
 
-#### Improving Soft Skills
- - Proactivity when production breaks
- - Assertivity when solving mere bugs
 
 ### Languages?
-I'm a Portuguese speaker and an advanced English speaker;
+- Native Portuguese speaker
+- Advanced English speaker
 
 
 ### More information?
